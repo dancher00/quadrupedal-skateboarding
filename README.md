@@ -1,8 +1,8 @@
-tba
+# Quadrupedal Skateboarding
 
-# 🛹 Quadrupedal Skateboarding
+Demonstrations accompanying the project **"The robot goes skateboarding"**: propulsion, steering, and skateboard mounting.
 
-**Open repository for the paper "The robot goes skateboarding"**
+This repository currently contains demonstration media. For the released mounting environments, training scripts, and checkpoints, see [Quadruped Skateboard Mounting](https://github.com/dancher00/quadruped-skateboard-mounting).
 
 ## Demonstrations
 
@@ -29,6 +29,8 @@ tba
 </p>
 
 ### Skateboard Mounting
+
+Simulation demonstration of mounting; the real-robot propulsion videos above show a separate skill.
 <p align="center">
   <img src="demo/mounting.gif" width="400"/>
 </p>
