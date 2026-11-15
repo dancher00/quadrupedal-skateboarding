@@ -1,17 +1,13 @@
 # Quadrupedal Skateboarding
 
-Demonstrations accompanying the project **"The robot goes skateboarding"**: propulsion, steering, and skateboard mounting.
+Demos for *The robot goes skateboarding*.
 
-This repository currently contains demonstration media. For the released mounting environments, training scripts, and checkpoints, see [Quadruped Skateboard Mounting](https://github.com/dancher00/quadruped-skateboard-mounting).
-
-## Demonstrations
-
-### Propulsion: Simulation vs Reality
+### Propulsion
 
 <table>
   <tr>
     <td align="center"><b>Simulation</b></td>
-    <td align="center"><b>Real Robot</b></td>
+    <td align="center"><b>Real robot</b></td>
   </tr>
   <tr>
     <td><img src="demo/matplotlib_front.gif" width="300"/></td>
@@ -23,20 +19,12 @@ This repository currently contains demonstration media. For the released mountin
   </tr>
 </table>
 
-### Steering Control
-<p align="center">
-  <img src="demo/turning.gif" width="400"/>
-</p>
+### Steering
 
-### Skateboard Mounting
+<img src="demo/turning.gif" width="400"/>
 
-Simulation demonstration of mounting; the real-robot propulsion videos above show a separate skill.
-<p align="center">
-  <img src="demo/mounting.gif" width="400"/>
-</p>
+### Mounting (simulation)
 
-*Related work: [Quadruped Skateboard Mounting](https://github.com/dancher00/quadruped-skateboard-mounting) | [arXiv Paper](https://www.arxiv.org/abs/2505.06561)*
+<img src="demo/mounting.gif" width="400"/>
 
-## License
-
-This project is licensed under the terms specified in the [LICENSE](LICENSE) file.
+[Mounting code](https://github.com/dancher00/quadruped-skateboard-mounting) · [Paper](https://arxiv.org/abs/2505.06561) · [License](LICENSE)
